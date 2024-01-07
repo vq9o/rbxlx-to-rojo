@@ -1,6 +1,9 @@
 # rbxlx-to-rojo (now supports .rbxl!)
 Tool to convert existing Roblox games into Rojo projects by reading their `rbxl` or `rbxlx` place files.
 
+# BUILD INSTRUCTIONS
+RUN COMMAND IN CLI: ``cargo run --release --features="cli"``
+
 # Using rbxlx-to-rojo
 ## Setup
 Before you can use rbxlx-to-rojo, you need the following:
